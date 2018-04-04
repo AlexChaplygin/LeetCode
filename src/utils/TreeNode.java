@@ -1,12 +1,15 @@
-package merge_two_binary_trees;
+package utils;
 
 // Definition for a binary tree node.
 
-public class TreeNode{
+public class TreeNode {
     private int val;
     private TreeNode left;
     private TreeNode right;
-    public TreeNode(int x) { val = x; }
+
+    public TreeNode(int x) {
+        val = x;
+    }
 
     public int getVal() {
         return val;
@@ -31,4 +34,5 @@ public class TreeNode{
     public void setRight(TreeNode right) {
         this.right = right;
     }
+
 }

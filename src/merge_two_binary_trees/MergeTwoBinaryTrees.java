@@ -23,6 +23,8 @@ Merged tree:
 Note: The merging process must start from the root nodes of both trees.
 */
 
+import utils.TreeNode;
+
 public class MergeTwoBinaryTrees {
 
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {

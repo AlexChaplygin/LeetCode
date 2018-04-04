@@ -2,6 +2,7 @@ package merge_two_binary_trees;
 
 import org.junit.Assert;
 import org.junit.Test;
+import utils.TreeNode;
 
 public class MergeTwoBinaryTreesTest {
 
