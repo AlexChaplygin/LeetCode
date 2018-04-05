@@ -2,6 +2,7 @@ package delete_node_linked_list;
 
 import org.junit.Assert;
 import org.junit.Test;
+import utils.ListNode;
 
 public class DeleteNodeLinkedListTest {
 

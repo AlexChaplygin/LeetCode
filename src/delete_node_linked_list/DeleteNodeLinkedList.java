@@ -7,6 +7,8 @@ Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node wi
 the linked list should become 1 -> 2 -> 4 after calling your function.
 */
 
+import utils.ListNode;
+
 public class DeleteNodeLinkedList {
 
     public void deleteNode(ListNode node) {

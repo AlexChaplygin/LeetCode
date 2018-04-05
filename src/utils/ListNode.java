@@ -1,4 +1,4 @@
-package delete_node_linked_list;
+package utils;
 
 public class ListNode {
 
