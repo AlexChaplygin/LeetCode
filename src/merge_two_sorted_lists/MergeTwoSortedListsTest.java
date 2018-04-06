@@ -1,4 +1,4 @@
-package terge_two_sorted_lists;
+package merge_two_sorted_lists;
 
 import org.junit.Assert;
 import org.junit.Test;
