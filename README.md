@@ -23,3 +23,4 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](./src/merge_two_sorted_lists)|-|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./src/merge_two_binary_trees)|-|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum)|-|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./src/majority_element)|-|
