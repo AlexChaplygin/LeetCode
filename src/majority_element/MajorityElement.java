@@ -4,9 +4,17 @@ import java.util.Arrays;
 
 /*
 Given an array of size n, find the majority element.
-The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+The majority element is the element that appears more than [ n/2 ] times.
 
 You may assume that the array is non-empty and the majority element always exist in the array.
+
+P.S. my example doesn't include condition that element more than [ n/2 ]. Search just majority element.
+
+With condition the solution more simle:
+
+Arrays.sort(nums);
+return nums[nums.length/2];
+
 */
 
 public class MajorityElement {
