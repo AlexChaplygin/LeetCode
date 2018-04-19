@@ -26,3 +26,4 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](./src/majority_element)|-|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](./src/move_zeroes)|-|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/unique_morse_code_words)|-|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Java](./src/linked_list_cycle)|-|
