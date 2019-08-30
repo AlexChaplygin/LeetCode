@@ -28,3 +28,4 @@ LeetCode
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/unique_morse_code_words)|-|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Java](./src/linked_list_cycle)|-|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./src/maximum_binary_tree)|-|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./src/sort_array_by_parity)|-|
