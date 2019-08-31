@@ -29,3 +29,4 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Java](./src/linked_list_cycle)|-|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./src/maximum_binary_tree)|-|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./src/sort_array_by_parity)|-|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](./src/minimum_add_to_make_parentheses_valid)|-|
