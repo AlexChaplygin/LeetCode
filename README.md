@@ -30,3 +30,4 @@ LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./src/maximum_binary_tree)|-|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./src/sort_array_by_parity)|-|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](./src/minimum_add_to_make_parentheses_valid)|-|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./src/all_paths_from_source_to_target)|-|
