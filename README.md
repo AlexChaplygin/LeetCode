@@ -32,3 +32,4 @@ LeetCode
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](./src/minimum_add_to_make_parentheses_valid)|-|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./src/all_paths_from_source_to_target)|-|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./src/hamming_distance)|-|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Java](./src/number_of_lines_to_write_string)|-|
