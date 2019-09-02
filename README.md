@@ -34,3 +34,4 @@ LeetCode
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./src/hamming_distance)|-|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Java](./src/number_of_lines_to_write_string)|-|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Java](./src/battleships_in_a_board)|-|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./src/middle_of_the_linked_list)|-|
