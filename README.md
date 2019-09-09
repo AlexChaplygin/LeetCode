@@ -36,3 +36,4 @@ LeetCode
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Java](./src/battleships_in_a_board)|-|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./src/middle_of_the_linked_list)|-|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Java](./src/keys_and_rooms)|-|
+|648|[Replace Words](https://leetcode.com/problems/replace-words/) | [Java](./src/replace_words)|-|
