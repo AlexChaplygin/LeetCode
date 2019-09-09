@@ -37,3 +37,4 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./src/middle_of_the_linked_list)|-|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Java](./src/keys_and_rooms)|-|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/) | [Java](./src/replace_words)|-|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./src/add_digits)|-|
