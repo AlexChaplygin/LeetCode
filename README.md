@@ -38,3 +38,4 @@ LeetCode
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Java](./src/keys_and_rooms)|-|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/) | [Java](./src/replace_words)|-|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./src/add_digits)|-|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./src/intersection_of_two_arrays)|-|
