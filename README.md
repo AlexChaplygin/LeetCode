@@ -40,3 +40,5 @@ LeetCode
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./src/add_digits)|-|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./src/intersection_of_two_arrays)|-|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers)|-|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./src/spiral_matrix)|-|
+|54|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./src/diagonal_traverse)|-|
