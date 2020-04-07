@@ -42,3 +42,4 @@ LeetCode
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers)|-|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./src/spiral_matrix)|-|
 |54|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./src/diagonal_traverse)|-|
+|54|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./src/pascals_triangle)|-|
